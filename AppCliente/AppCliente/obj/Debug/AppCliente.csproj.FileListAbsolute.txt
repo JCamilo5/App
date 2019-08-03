@@ -1,0 +1,24 @@
+C:\Users\JuanCamilo\source\repos\AppCliente\AppCliente\bin\Debug\AppCliente.exe.config
+C:\Users\JuanCamilo\source\repos\AppCliente\AppCliente\bin\Debug\AppCliente.exe
+C:\Users\JuanCamilo\source\repos\AppCliente\AppCliente\bin\Debug\AppCliente.pdb
+C:\Users\JuanCamilo\source\repos\AppCliente\AppCliente\obj\Debug\AppCliente.csprojAssemblyReference.cache
+C:\Users\JuanCamilo\source\repos\AppCliente\AppCliente\obj\Debug\AppCliente.Form1.resources
+C:\Users\JuanCamilo\source\repos\AppCliente\AppCliente\obj\Debug\AppCliente.Properties.Resources.resources
+C:\Users\JuanCamilo\source\repos\AppCliente\AppCliente\obj\Debug\AppCliente.csproj.GenerateResource.cache
+C:\Users\JuanCamilo\source\repos\AppCliente\AppCliente\obj\Debug\AppCliente.csproj.CoreCompileInputs.cache
+C:\Users\JuanCamilo\source\repos\AppCliente\AppCliente\obj\Debug\AppCliente.exe
+C:\Users\JuanCamilo\source\repos\AppCliente\AppCliente\obj\Debug\AppCliente.pdb
+C:\Users\JuanCamilo\source\repos\AppCliente\AppCliente\bin\Debug\Oracle.DataAccess.dll
+C:\Users\JuanCamilo\source\repos\AppCliente\AppCliente\obj\Debug\AppCliente.csproj.CopyComplete
+C:\Users\JuanCamilo\Documents\Visual Studio 2017\Projects\AppCliente\AppCliente\bin\Debug\AppCliente.exe.config
+C:\Users\JuanCamilo\Documents\Visual Studio 2017\Projects\AppCliente\AppCliente\obj\Debug\AppCliente.exe
+C:\Users\JuanCamilo\Documents\Visual Studio 2017\Projects\AppCliente\AppCliente\obj\Debug\AppCliente.pdb
+C:\Users\JuanCamilo\Documents\Visual Studio 2017\Projects\AppCliente\AppCliente\bin\Debug\AppCliente.exe
+C:\Users\JuanCamilo\Documents\Visual Studio 2017\Projects\AppCliente\AppCliente\bin\Debug\AppCliente.pdb
+C:\Users\JuanCamilo\Documents\Visual Studio 2017\Projects\AppCliente\AppCliente\bin\Debug\Oracle.DataAccess.dll
+C:\Users\JuanCamilo\Documents\Visual Studio 2017\Projects\AppCliente\AppCliente\obj\Debug\AppCliente.Form1.resources
+C:\Users\JuanCamilo\Documents\Visual Studio 2017\Projects\AppCliente\AppCliente\obj\Debug\AppCliente.Properties.Resources.resources
+C:\Users\JuanCamilo\Documents\Visual Studio 2017\Projects\AppCliente\AppCliente\obj\Debug\AppCliente.csproj.GenerateResource.Cache
+C:\Users\JuanCamilo\Documents\Visual Studio 2017\Projects\AppCliente\AppCliente\obj\Debug\AppCliente.csprojAssemblyReference.cache
+C:\Users\JuanCamilo\Documents\Visual Studio 2017\Projects\AppCliente\AppCliente\obj\Debug\AppCliente.csproj.CoreCompileInputs.cache
+C:\Users\JuanCamilo\Documents\Visual Studio 2017\Projects\AppCliente\AppCliente\obj\Debug\AppCliente.csproj.CopyComplete
